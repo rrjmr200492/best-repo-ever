@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>aprendiendo CSS</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <link rel="stylesheet" type="text/css" href="normalize.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body>
+        <div class="grid-container">
+            <div class="grid_item grid-header">
+                <ul>
+                    <li><a href="#">enlace</a></li>
+                    <li><a href="#">enlace</a></li>
+                    <li><a href="#">enlace</a></li>
+                    <li><a href="#">enlace</a></li>
+                    
+                </ul>
+            </div>
+            <div class="grid_item grid-main">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, consequuntur expedita. Vel consequatur impedit adipisci, officiis autem odio quas nemo mollitia nobis id culpa cumque esse odit eius dicta necessitatibus.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit doloremque totam voluptates omnis consequatur voluptas laboriosam quam. Qui eius sit tempora voluptates, libero voluptate sapiente quia nesciunt cum, quam repellendus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium reprehenderit quaerat provident magni earum aspernatur quasi iure asperiores aliquid amet quas tempora, sapiente doloremque sed beatae odit ullam, suscipit consequuntur! Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni voluptatum nobis id! Praesentium excepturi inventore accusantium reiciendis at soluta hic, porro quis perferendis, error ipsam iste nemo quos dolorum voluptas.</div>
+            <div class="grid_item grid-aside">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem porro optio et quod nobis modi praesentium nesciunt quos pariatur eum explicabo voluptas tempora, error voluptatibus reiciendis! Error eveniet voluptates totam?</div>
+            <div class="grid_item grid-footer">footer</div>
+         </div>
+    </body>
+</html>
